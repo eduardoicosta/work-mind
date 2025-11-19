@@ -3,7 +3,7 @@
 ## 📝 Descrição do Projeto
 O **WorkMind** é uma solução móvel desenvolvida para auxiliar profissionais e estudantes na adaptação ao futuro do trabalho. O aplicativo foca em três pilares essenciais: **Produtividade (Foco)**, **Bem-estar Mental** e **Aprendizado Contínuo (Gamificação)**. O objetivo é mitigar o burnout e aumentar a eficiência através de técnicas comprovadas como Pomodoro e respiração guiada.
 
-## 🚀 Funcionalidades Principais (Requisito: Mínimo 3)
+## 🚀 Funcionalidades Principais
 1.  **Gestão de Foco (Pomodoro & Respiração):**
     * Timer Pomodoro configurável para ciclos de foco profundo.
     * Exercício de respiração guiada (4-2-6) com animação visual e feedback tátil (vibração) para redução de ansiedade.
