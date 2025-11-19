@@ -46,3 +46,4 @@ O **WorkMind** é uma solução móvel desenvolvida para auxiliar profissionais 
 
 ---
 **Desenvolvido por:** Arthur Dias da Silva Biancchi – RM 99162 / Enzo Puerta Meschini – RM 550807 / Eduardo Costa Nascimento dos Anjos – RM 552519
+**Documentação:** [Documentação - WorkMind.pdf](https://github.com/eduardoicosta/work-mind/blob/main/Documenta%C3%A7%C3%A3o%20-%20WorkMind.pdf)
